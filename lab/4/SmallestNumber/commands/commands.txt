@@ -1,0 +1,2 @@
+jar -cvf SmallestNumber.jar -C SmallestNumber/ .
+hadoop jar SmallestNumber.jar SmallestNumber
